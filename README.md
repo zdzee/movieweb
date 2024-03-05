@@ -13,3 +13,7 @@ https://bmov.vercel.app/
 https://movie-web-me.vercel.app/
 
 PROXY:
+
+https://playful-gingersnap-a778db.netlify.app/
+
+https://extraordinary-pothos-de299e.netlify.app/
